@@ -27,7 +27,7 @@ And now for the main trick
 
 [This is a link](https://www.google.com)
 
-[And this is a link to a PDF file stored in this "repository"](sample.pdf)
+[And this is a link to a PDF file stored in this "repository"](https://raw.githubusercontent.com/turbobastii/Page-Demo/main/sample.pdf)
 
 
 __*Have fun!*__
